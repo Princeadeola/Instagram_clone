@@ -8,7 +8,6 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:background="#02E696"
         android:layout_height="match_parent">
 
         <!--    top toolbar    -->
