@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dextron/AndroidStudioProjects/Instagramclone/app/src/main/res/drawable/white_gray_border_bottom.xml" value="0.290625" />
+        <entry key="..\:/Users/Dextron/AndroidStudioProjects/Instagramclone/app/src/main/res/drawable/white_gray_border_top.xml" value="0.290625" />
         <entry key="..\:/Users/Dextron/AndroidStudioProjects/Instagramclone/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
         <entry key="..\:/Users/Dextron/AndroidStudioProjects/Instagramclone/app/src/main/res/layout/layout_bottom_nav_view.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Dextron/AndroidStudioProjects/Instagramclone/app/src/main/res/layout/layout_center_viewpager.xml" value="0.27447916666666666" />
