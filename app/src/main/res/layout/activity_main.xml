@@ -37,6 +37,9 @@
         </RelativeLayout>
 
         <!--    bottom nav    -->
+        <include
+            layout="@layout/layout_bottom_nav_view"
+            />
     </RelativeLayout>
 
 
