@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merge xmlns:android="http://schemas.android.com/apk/res/android">
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <RelativeLayout
 
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_alignParentBottom="true">
 
-        <com.google.android.material.bottomnavigation.BottomNavigationView
+
+<!--        <com.google.android.material.bottomnavigation.BottomNavigationView-->
+<!--            android:id="@+id/bottomNavViewBar"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@drawable/white_gray_border_top"-->
+<!--            app:menu="@menu/bottom_nav_menu">-->
+
+<!--        </com.google.android.material.bottomnavigation.BottomNavigationView>-->
+
+        <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
             android:id="@+id/bottomNavViewBar"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/white_gray_border_top">
-
-        </com.google.android.material.bottomnavigation.BottomNavigationView>
+            android:background="@drawable/white_gray_border_top"
+            app:menu="@menu/bottom_nav_menu"
+            />
 
     </RelativeLayout>
 </merge>
